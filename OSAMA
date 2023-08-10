@@ -93,7 +93,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m IC_X_K
+    python3 -m WWWL5
 }
 
 _set_bot
